@@ -1,6 +1,7 @@
+````md
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4d4d4d&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono\&weight=500\&size=30\&duration=3000\&pause=1000\&color=2563EB\&center=true\&vCenter=true\&width=1000\&lines=HELLO%2C+I'M+GABRIEL+FREITAS;SOFTWARE+ENGINEERING+STUDENT;BUILDING+%7C+LEARNING+%7C+EVOLVING;WELCOME+TO+MY+ACADEMIC+PROFILE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=HELLO%2C+I'M+GABRIEL+FREITAS;SOFTWARE+ENGINEERING+STUDENT;BUILDING+%7C+LEARNING+%7C+EVOLVING;WELCOME+TO+MY+ACADEMIC+PROFILE)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -88,7 +89,7 @@ Here you'll find projects developed throughout my studies, from **web developmen
 │  [06]  Building complete academic projects                    │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
-```
+````
 
 ---
 
@@ -172,8 +173,9 @@ Academic projects, experiments and development work will be showcased here as th
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:1D4ED8,100:4d4d4d&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=4d4d4d&animation=fadeIn" width="100%" alt="Footer"/>
 
 <sub>© 2026 Gabriel Freitas</sub>
 
 </div>
+```
