@@ -172,7 +172,7 @@ Academic projects, experiments and development work will be showcased here as th
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:1D4ED8,100:0D1117&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:4d4d4d,50:1D4ED8,100:0D1117&animation=fadeIn" width="100%" alt="Footer"/>
 
 <sub>© 2026 Gabriel Freitas</sub>
 
