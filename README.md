@@ -14,8 +14,8 @@ Here you'll find projects developed throughout my studies, from **web developmen
 
 **Interested in my professional profile?**
 
-<a href="https://github.com/dev-cleancoder">
-<img src="https://img.shields.io/badge/Professional%20Profile-dev--cleancoder-4d4d4d?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Professional GitHub Profile"/>
+<a href="https://github.com/gabrielfreitas28">
+<img src="https://img.shields.io/badge/Professional%20Profile-gabrielfreitas28-4d4d4d?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Professional GitHub Profile"/>
 </a>
 
 </div>
@@ -28,15 +28,15 @@ Here you'll find projects developed throughout my studies, from **web developmen
 
 <!--
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFreitas29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=4d4d4d&text_color=FFFFFF" alt="Gabriel's GitHub stats"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev-cleancode&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=4d4d4d&text_color=FFFFFF" alt="Gabriel's GitHub stats"/>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFreitas29&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Top languages"/>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-cleancode&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Top languages"/>
 
 <br><br>
 
 -->
-<a href="https://github.com/dev-cleancode">
-<img src="https://streak-stats.demolab.com?user=GabrielFreitas29&hide_border=true&background=0D1117&ring=4d4d4d&fire=4d4d4d&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+<img src="https://streak-stats.demolab.com?user=dev-cleancode&hide_border=true&background=0D1117&ring=4d4d4d&fire=4d4d4d&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 </div>
 
@@ -156,8 +156,12 @@ Academic projects, experiments and development work will be showcased here as th
 
 <div align="center">
 
-<a href="https://github.com/dev-cleancoder">
-<img src="https://img.shields.io/badge/Professional%20GitHub-dev--cleancoder-4d4d4d?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Professional GitHub"/>
+<a href="https://github.com/dev-cleancode">
+<img src="https://img.shields.io/badge/GitHub-dev--cleancode-4d4d4d?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+
+<a href="https://github.com/gabrielfreitas28">
+<img src="https://img.shields.io/badge/Professional%20GitHub-gabrielfreitas28-4d4d4d?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Professional GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
@@ -181,6 +185,3 @@ Academic projects, experiments and development work will be showcased here as th
 <sub>© 2026 Gabriel Freitas</sub>
 
 </div>
-```
-
-Agora o visual fica consistente com o **README acadêmico original**: cinza como cor principal, sem aquele azul destoando do restante.
