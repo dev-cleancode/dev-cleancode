@@ -1,40 +1,179 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d4d4d&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Gabriel+Freitas;I'm+21+years+old;I'm+from+Brazil,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFreitas29&show_icons=true&count_private=true&theme=dark" alt="Gabriel Freitas da Silva Carvalho github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFreitas29&layout=compact&theme=dark" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFreitas29&bg_color=000000&color=ffffff&line=ffffff&point=23c736&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Main skills:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp; 
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-
-### Other Knowledge:
-![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-  
-### Studying in this moment:
-![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono\&weight=500\&size=30\&duration=3000\&pause=1000\&color=2563EB\&center=true\&vCenter=true\&width=1000\&lines=HELLO%2C+I'M+GABRIEL+FREITAS;SOFTWARE+ENGINEERING+STUDENT;BUILDING+%7C+LEARNING+%7C+EVOLVING;WELCOME+TO+MY+ACADEMIC+PROFILE)](https://git.io/typing-svg)
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GabrielFreitas29}/count.svg" /></p> 
-<br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4d4d4d&height=120&section=footer"/>
+### `ACADEMIC PROFILE`
+
+I'm a **Software Engineering student at FIAP**, using this profile to document my academic journey, projects, experiments and continuous learning.
+
+Here you'll find projects developed throughout my studies, from **web development and programming fundamentals to databases, React and Artificial Intelligence**.
+
+<br>
+
+**Interested in my professional profile?**
+
+<a href="https://github.com/dev-cleancoder">
+<img src="https://img.shields.io/badge/Professional%20Profile-dev--cleancoder-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Professional GitHub Profile"/>
+</a>
+
+</div>
+
+---
+
+# `01 // GITHUB INSIGHT`
+
+<div align="center">
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFreitas29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=FFFFFF" alt="Gabriel's GitHub stats"/>
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFreitas29&layout=compact&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=FFFFFF" alt="Top languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=GabrielFreitas29&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+
+</div>
+
+---
+
+# `02 // TECHNOLOGIES`
+
+<div align="center">
+
+### `PROGRAMMING`
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,js&theme=dark" alt="Programming languages"/>
+
+<br><br>
+
+### `WEB DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark" alt="Web development technologies"/>
+
+<br><br>
+
+### `DATABASES`
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="Database technologies"/>
+
+<br><br>
+
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma&theme=dark" alt="Development tools"/>
+
+</div>
+
+---
+
+# `03 // CURRENTLY LEARNING`
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                     LEARNING QUEUE                            │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  [01]  Software Engineering fundamentals                     │
+│                                                               │
+│  [02]  C# and software development                           │
+│                                                               │
+│  [03]  React and modern web development                       │
+│                                                               │
+│  [04]  Databases and data management                          │
+│                                                               │
+│  [05]  Artificial Intelligence and its applications           │
+│                                                               │
+│  [06]  Building complete academic projects                    │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `04 // ACADEMIC PROJECTS`
+
+<div align="center">
+
+### `PROJECTS COMING SOON`
+
+Academic projects, experiments and development work will be showcased here as they evolve.
+
+</div>
+
+---
+
+# `05 // ACADEMIC JOURNEY`
+
+```text
+                         GABRIEL FREITAS
+                                │
+                                ▼
+                 ┌───────────────────────────────┐
+                 │     PROGRAMMING FOUNDATION     │
+                 │                               │
+                 │ Python • Java • JavaScript    │
+                 │ HTML • CSS • SQL              │
+                 └───────────────┬───────────────┘
+                                 │
+                                 ▼
+                 ┌───────────────────────────────┐
+                 │        WEB DEVELOPMENT        │
+                 │                               │
+                 │ React • JavaScript • CSS      │
+                 │ Bootstrap • Web Projects      │
+                 └───────────────┬───────────────┘
+                                 │
+                                 ▼
+                 ┌───────────────────────────────┐
+                 │          FIAP                  │
+                 │                               │
+                 │ Software Engineering          │
+                 │ Academic Projects • Systems   │
+                 └───────────────┬───────────────┘
+                                 │
+                                 ▼
+                 ┌───────────────────────────────┐
+                 │       NEXT DIRECTION           │
+                 │                               │
+                 │ Backend • AI • Architecture   │
+                 │ Software Engineering          │
+                 └───────────────┬───────────────┘
+                                 │
+                                 ▼
+                     BUILDING • LEARNING •
+                         ENGINEERING
+```
+
+---
+
+# `06 // CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/dev-cleancoder">
+<img src="https://img.shields.io/badge/Professional%20GitHub-dev--cleancoder-2563EB?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Professional GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gabriel-freitas-7a3336265/">
+<img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Freitas-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3500&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=%3E+Learning+through+code.;%3E+Building+through+practice.;%3E+Growing+as+a+software+engineer.;%3E+See+you+on+the+next+commit." alt="Footer animation"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:1D4ED8,100:0D1117&animation=fadeIn" width="100%" alt="Footer"/>
+
+<sub>© 2026 Gabriel Freitas</sub>
+
+</div>
