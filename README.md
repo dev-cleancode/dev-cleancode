@@ -35,7 +35,7 @@ Here you'll find projects developed throughout my studies, from **web developmen
 <br><br>
 
 -->
-<a href="https://github.com/dev-cleancoder">
+<a href="https://github.com/dev-cleancode">
 <img src="https://streak-stats.demolab.com?user=GabrielFreitas29&hide_border=true&background=0D1117&ring=4d4d4d&fire=4d4d4d&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 </div>
