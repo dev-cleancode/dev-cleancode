@@ -26,11 +26,15 @@ Here you'll find projects developed throughout my studies, from **web developmen
 
 <div align="center">
 
+<!--
+
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielFreitas29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=4d4d4d&text_color=FFFFFF" alt="Gabriel's GitHub stats"/>
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFreitas29&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="Top languages"/>
 
 <br><br>
+
+-->
 
 <img src="https://streak-stats.demolab.com?user=GabrielFreitas29&hide_border=true&background=0D1117&ring=4d4d4d&fire=4d4d4d&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
